@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "packages": [
+    {
+      "id": "firmware_cleaner",
+      "name": "MIRO Firmware Cleaner",
+      "version": "1.0.0",
+      "description": "Safe rule-based firmware cleanup with dry-run by default.",
+      "archive": "firmware_cleaner-1.0.0.zip",
+      "sha256": "0edf684ffc8c8a9ed5ca8e3c40853d26d15202ac737891767bb938bab4197113",
+      "dependencies": [],
+      "downloadUrl": "https://raw.githubusercontent.com/architekt321/HELL-Toolbox-Plugins/main/plugins/firmware_cleaner-1.0.0.zip"
+    }
+  ]
+}
