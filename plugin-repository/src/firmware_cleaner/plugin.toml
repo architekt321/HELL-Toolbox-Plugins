@@ -1,0 +1,6 @@
+id = "firmware_cleaner"
+name = "MIRO Firmware Cleaner"
+version = "1.0.0"
+entrypoint = "plugin:FirmwareCleanerPlugin"
+description = "Safe firmware-cleanup integration for the HELL ROM SDK."
+enabled = true

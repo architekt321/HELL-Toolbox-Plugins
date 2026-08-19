@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "packages": [
+    {
+      "id": "firmware_cleaner",
+      "name": "MIRO Firmware Cleaner",
+      "version": "1.0.0",
+      "description": "Safe firmware-cleanup integration for the HELL ROM SDK.",
+      "archive": "firmware_cleaner-1.0.0.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/architekt321/HELL-Toolbox-Plugins/refs/heads/main/plugin-repository/archives/firmware_cleaner-1.0.0.zip",
+      "sha256": "9492e5d66e1993200cb380c43cd108aed2b17e627fcb42e09df08d207335fc9c"
+    },
+    {
+      "id": "kernel_tools",
+      "name": "Kernel Tools",
+      "version": "0.2.0",
+      "description": "Kernel build and packaging integration for the HELL ROM SDK.",
+      "archive": "kernel_tools-0.2.0.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/architekt321/HELL-Toolbox-Plugins/refs/heads/main/plugin-repository/archives/kernel_tools-0.2.0.zip",
+      "sha256": "aa9ebb7a56ef570854fc837cd92e3528e4c9d2310c3680d2f3b67d1f1f2491a7"
+    },
+    {
+      "id": "hyperos_tools",
+      "name": "HyperOS Tools",
+      "version": "0.1.0",
+      "description": "HyperOS inspection and patch integration for the HELL ROM SDK.",
+      "archive": "hyperos_tools-0.1.0.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/architekt321/HELL-Toolbox-Plugins/refs/heads/main/plugin-repository/archives/hyperos_tools-0.1.0.zip",
+      "sha256": "f2a3754291cffb252e0224a400d4e2a141a8f03dc5c14440f1d551f41dc74861"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+id = "kernel_tools"
+name = "Kernel Tools"
+version = "0.2.0"
+entrypoint = "plugin:KernelToolsPlugin"
+description = "Kernel build and packaging integration for the HELL ROM SDK."
+enabled = true

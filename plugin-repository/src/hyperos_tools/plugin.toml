@@ -1,0 +1,6 @@
+id = "hyperos_tools"
+name = "HyperOS Tools"
+version = "0.1.0"
+entrypoint = "plugin:HyperOsToolsPlugin"
+description = "HyperOS inspection and patch integration for the HELL ROM SDK."
+enabled = true
